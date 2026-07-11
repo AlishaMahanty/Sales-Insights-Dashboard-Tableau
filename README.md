@@ -31,30 +31,11 @@ Key business questions:
 
 The dataset consists of multiple tables:
 
-1. Transactions Table
-148K+ sales transactions
-Sales quantity
-Sales amount
-Profit margin
-Profit
-Cost price
-Order date
-
-2. Customers
-Customer details
-Customer type (Brick & Mortar / E-Commerce)
-
-3. Products
-Product details
-Product category
-
-4. Markets
-Market information
-Regional zones
-
-5. Date Table
-Date hierarchy
-Year and month analysis
+1. Transactions Table: 148K+ sales transactions, Sales quantity, Sales amount, Profit margin, Profit, Cost price and Order date
+2. Customers: Customer details and Customer type (Brick & Mortar / E-Commerce)
+3. Products: Product details and Product category
+4. Markets: Market information and Regional zones
+5. Date Table: Date hierarchy, Year and month analysis
 
 The sales data was extracted from MySQL and connected with Tableau. Data preparation included standardizing fields, handling null values and data inconsistencies, correcting invalid transactions, creating table relationships, and developing calculated fields for sales and profitability analysis.
 
@@ -62,7 +43,7 @@ The sales data was extracted from MySQL and connected with Tableau. Data prepara
 
 An interactive Tableau dashboard was developed with two key analytical views — **Revenue Analysis** and **Profit Analysis** — to provide stakeholders with a comprehensive understanding of sales performance.
 
-### Revenue Analysis Dashboard
+### 1. Revenue Analysis Dashboard
 
 ![](https://github.com/AlishaMahanty/Sales-Insights-Dashboard-Tableau/blob/main/Revenue_Analysis.png)
 
@@ -73,7 +54,7 @@ Provides insights into:
 - Top-performing customers and products
 - Sales quantity comparison across markets
 
-### Profit Analysis Dashboard
+### 2. Profit Analysis Dashboard
 
 ![](https://github.com/AlishaMahanty/Sales-Insights-Dashboard-Tableau/blob/main/Profit_Analysis.png)
 
