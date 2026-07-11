@@ -64,6 +64,8 @@ An interactive Tableau dashboard was developed with two key analytical views —
 
 ### Revenue Analysis Dashboard
 
+![](https://github.com/AlishaMahanty/Sales-Insights-Dashboard-Tableau/blob/main/Revenue_Analysis.png)
+
 Provides insights into:
 - Overall revenue and sales quantity performance
 - Revenue trends across different years and months
@@ -72,6 +74,8 @@ Provides insights into:
 - Sales quantity comparison across markets
 
 ### Profit Analysis Dashboard
+
+![](https://github.com/AlishaMahanty/Sales-Insights-Dashboard-Tableau/blob/main/Profit_Analysis.png)
 
 Focuses on profitability analysis through:
 - Revenue vs profit trends over time
