@@ -43,7 +43,7 @@ The sales data was extracted from MySQL and connected with Tableau. Data prepara
 
 An interactive Tableau dashboard was developed with two key analytical views — **Revenue Analysis** and **Profit Analysis** — to provide stakeholders with a comprehensive understanding of sales performance.
 
-### 1. Revenue Analysis Dashboard
+### Revenue Analysis Dashboard
 
 ![](https://github.com/AlishaMahanty/Sales-Insights-Dashboard-Tableau/blob/main/Revenue_Analysis.png)
 
@@ -54,7 +54,7 @@ Provides insights into:
 - Top-performing customers and products
 - Sales quantity comparison across markets
 
-### 2. Profit Analysis Dashboard
+### Profit Analysis Dashboard
 
 ![](https://github.com/AlishaMahanty/Sales-Insights-Dashboard-Tableau/blob/main/Profit_Analysis.png)
 
